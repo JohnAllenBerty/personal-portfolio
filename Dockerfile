@@ -1,4 +1,4 @@
-From node:alpine as builder
+From node:23.11.1-alpine3.21 as builder
 
 WORKDIR /frontend
 
